@@ -9,7 +9,6 @@ public class Task10 {
     public static void main(String[] args) {
         ex1();
     }
-
     static void ex1() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите длину массива: ");
